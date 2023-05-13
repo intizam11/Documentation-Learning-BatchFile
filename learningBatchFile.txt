@@ -1,0 +1,18 @@
+syntax syntax dasar membuat batch file
+
+1.semua batch file di atasnya harus ada 
+@echo off
+
+2.echo : digunakna untuk mencetak teks ke layar 
+
+3.pause : digunakan untuk memberhentikan eksekusi script sementara dan menunggu pengguna untuk menekan enter sebelum melanjutkan eksekusi script 
+
+4.set : digunakan untuk membuat atau mengubah nilai dari suatu variabel
+
+5.if : digunakan untuk melakukan perbandingan atau menguji kondisi 
+
+6.goto :  digunakan untuk mengarahkan eksekusi script ke sebuah label tertentu
+
+7.": label1" : digunakan untuk menandai sebuah posisi di dalam script 
+
+8. call : digunakan untuk memanggil atau menjalankan script lain dari dalam script yang sedang dijalankan 
